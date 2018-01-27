@@ -2799,3 +2799,17 @@ LogInit: Object subsystem initialized
 [2018.01.27-22.53.56:270][741]LogSavePackage: Save=165.13ms
 [2018.01.27-22.53.56:270][741]LogSavePackage: Moving 'M:/ZombBard/Saved/TopDownExampleMap_BuiltData80907479466E45945473B28198C6302B.tmp' to 'M:/ZombBard/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
 [2018.01.27-22.53.56:284][741]LogSavePackage: Display: Finished SavePackage M:/ZombBard/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.01.27-23.03.37:086][948]LogTemp: Repeating last play command: Standalone Game
+[2018.01.27-23.03.48:203][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/Buildings/clouds" FILE="M:/ZombBard/Content/TopDownBP/Character/Buildings/clouds.uasset" SILENT=true
+[2018.01.27-23.03.48:383][948]LogSavePackage: Save=164.22ms
+[2018.01.27-23.03.48:383][948]LogSavePackage: Moving 'M:/ZombBard/Saved/clouds1AD048F14D125AE134F554B6BE874880.tmp' to 'M:/ZombBard/Content/TopDownBP/Character/Buildings/clouds.uasset'
+[2018.01.27-23.03.48:426][948]LogSavePackage: Display: Finished SavePackage M:/ZombBard/Content/TopDownBP/Character/Buildings/clouds.uasset
+[2018.01.27-23.03.48:430][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/Buildings/torch_palette1" FILE="M:/ZombBard/Content/TopDownBP/Character/Buildings/torch_palette1.uasset" SILENT=true
+[2018.01.27-23.03.48:669][948]LogSavePackage: Save=64.97ms
+[2018.01.27-23.03.48:669][948]LogSavePackage: Moving 'M:/ZombBard/Saved/torch_palette1B873CA8F4638624AF280D4BCD1B75E29.tmp' to 'M:/ZombBard/Content/TopDownBP/Character/Buildings/torch_palette1.uasset'
+[2018.01.27-23.03.48:742][948]LogSavePackage: Display: Finished SavePackage M:/ZombBard/Content/TopDownBP/Character/Buildings/torch_palette1.uasset
+[2018.01.27-23.03.48:779][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="M:/ZombBard/Saved/Autosaves/Game/TopDownBP/Maps/UEDPCTopDownExampleMap.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2018.01.27-23.03.51:084][948]LogSavePackage: Save=1898.66ms
+[2018.01.27-23.03.51:085][948]LogSavePackage: Moving 'M:/ZombBard/Saved/UEDPCTopDownExampleMapBDF0522040DA1CFBFE22A285C955614E.tmp' to 'M:/ZombBard/Saved/Autosaves/Game/TopDownBP/Maps/UEDPCTopDownExampleMap.umap'
+[2018.01.27-23.03.51:109][948]LogSavePackage: Display: Finished SavePackage M:/ZombBard/Saved/Autosaves/Game/TopDownBP/Maps/UEDPCTopDownExampleMap.umap
+[2018.01.27-23.03.51:146][948]LogEditorTransaction: Undo Spawn Play From Here Start
